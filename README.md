@@ -7,11 +7,12 @@ Verktøyet kjører direkte i nettleseren og krever ingen server, database eller 
 ## Kom i gang
 
 1. Åpne `index.html` direkte i en moderne nettleser, eller publiser mappen med GitHub Pages.
-2. Last inn et JPG-, PNG- eller WebP-bilde.
-3. Velg analysemetode eller bruk **Automatisk**.
-4. Juster tersklene ved behov.
-5. Klikk på markeringer for å deaktivere eller aktivere enkeltfunn manuelt.
-6. Lagre bildet med markeringer dersom du ønsker dokumentasjon av resultatet.
+2. Ved oppstart vises et standardbilde av reinflokk på snø. Standardfoto krediteres **Anders Mossing**.
+3. Last inn et JPG-, PNG- eller WebP-bilde dersom du vil teste med egne data.
+4. Velg analysemetode eller bruk **Automatisk**.
+5. Juster tersklene ved behov.
+6. Klikk på markeringer for å deaktivere eller aktivere enkeltfunn manuelt.
+7. Lagre bildet med markeringer dersom du ønsker dokumentasjon av resultatet.
 
 ## Analysemetoder
 
@@ -38,7 +39,7 @@ Artikkelen viser blant annet at deteksjon fra UAV-bilder kan være ufullstendig,
 5. Velg `main` og mappen `/ (root)`.
 6. Lagre. GitHub viser deretter adressen til nettsiden når publiseringen er klar.
 
-`index.html` er selvstendig og inneholder både eksempelfoto og logo innebygd som data. Det er derfor ingen eksterne filer som må lastes sammen med nettsiden for at selve demonstrasjonen skal fungere.
+Prosjektet publiseres som en liten statisk nettside. `index.html` er hovedfilen, og mappen `assets/` inneholder standardfotoet som lastes ved oppstart. NMBU-logoen er innebygd i HTML-filen.
 
 ## Nettleserstøtte
 
@@ -48,11 +49,12 @@ En oppdatert versjon av Chrome, Edge, Firefox eller Safari anbefales. HEIC-bilde
 
 Prosjektet er **åpent for alle** og kildekoden distribueres under **MIT-lisensen**. Det betyr at du kan bruke, kopiere, endre, publisere og bygge videre på programmet, også i andre prosjekter, så lenge copyright- og lisensinformasjonen følger med.
 
-NMBU-logoen er tredjepartsinnhold og omfattes ikke av MIT-lisensen. Se `COPYRIGHT.md` for detaljer om logo, eksempelfoto og forskningsartikkel.
+NMBU-logoen og standardfotoet er tredjepartsinnhold og omfattes ikke av MIT-lisensen. Se `COPYRIGHT.md` for detaljer om logo, foto og forskningsartikkel.
 
 ## Kreditering
 
 **Laget av Ronny Steen**  
-**Skyggekoding (ghost coding): ChatGPT**
+**Skyggekoding (ghost coding): ChatGPT**  
+**Standardfoto: © Anders Mossing**
 
 Krediteringen er ment som åpen dokumentasjon av hvordan demonstratoren ble utviklet. Se `LICENSE` for programvarelisensen og `COPYRIGHT.md` for merknader om tredjepartsinnhold.

@@ -19,9 +19,9 @@ Krediteringen beskriver utviklingsmåten. Den endrer ikke rettighetene som gis g
 
 Logoen til Norges miljø- og biovitenskapelige universitet (NMBU) er tredjepartsinnhold og **omfattes ikke av MIT-lisensen**. Navn, logo og eventuelle varemerker tilhører sine respektive rettighetshavere. Gjenbrukere må selv følge NMBUs retningslinjer for bruk av navn og logo. Dersom prosjektet forgrenes eller brukes uten NMBU-tilknytning, bør logoen fjernes eller erstattes.
 
-## Eksempelfoto
+## Standardfoto
 
-Eksempelfotoet som er innebygd i `index.html` er et separat medieelement og omfattes ikke automatisk av MIT-lisensen for programkoden. Ved videre publisering eller gjenbruk må den som publiserer ha nødvendige rettigheter til bildet, eller erstatte det med et bilde vedkommende har rett til å distribuere.
+Standardfotoet i prosjektet ligger i `assets/default-anders-mossing.jpg` og krediteres **© Anders Mossing**. Fotoet er et separat medieelement og omfattes **ikke** automatisk av MIT-lisensen for programkoden. Ved videre publisering eller gjenbruk må den som publiserer sørge for at nødvendig tillatelse og kreditering for bildet opprettholdes, eller erstatte bildet med et annet bilde vedkommende har rett til å distribuere.
 
 ## Forskningsartikkel
 
