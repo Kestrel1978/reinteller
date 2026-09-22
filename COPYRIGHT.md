@@ -21,7 +21,7 @@ Logoen til Norges miljø- og biovitenskapelige universitet (NMBU) er tredjeparts
 
 ## Standardfoto
 
-Standardfotoet i prosjektet ligger i `assets/default-anders-mossing.jpg` og krediteres **© Anders Mossing**. Fotoet er et separat medieelement og omfattes **ikke** automatisk av MIT-lisensen for programkoden. Ved videre publisering eller gjenbruk må den som publiserer sørge for at nødvendig tillatelse og kreditering for bildet opprettholdes, eller erstatte bildet med et annet bilde vedkommende har rett til å distribuere.
+Standardfotoet i prosjektet ligger i `default-anders-mossing.jpg` og krediteres **© Anders Mossing**. Fotoet er et separat medieelement og omfattes **ikke** automatisk av MIT-lisensen for programkoden. Ved videre publisering eller gjenbruk må den som publiserer sørge for at nødvendig tillatelse og kreditering for bildet opprettholdes, eller erstatte bildet med et annet bilde vedkommende har rett til å distribuere.
 
 ## Forskningsartikkel
 

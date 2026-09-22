@@ -39,7 +39,7 @@ Artikkelen viser blant annet at deteksjon fra UAV-bilder kan være ufullstendig,
 5. Velg `main` og mappen `/ (root)`.
 6. Lagre. GitHub viser deretter adressen til nettsiden når publiseringen er klar.
 
-Prosjektet publiseres som en liten statisk nettside. `index.html` er hovedfilen, og mappen `assets/` inneholder standardfotoet som lastes ved oppstart. NMBU-logoen er innebygd i HTML-filen.
+Prosjektet publiseres som en liten statisk nettside. `index.html` er hovedfilen, og `default-anders-mossing.jpg` ligger i rotmappen og lastes som standardfoto ved oppstart. NMBU-logoen er innebygd i HTML-filen.
 
 ## Nettleserstøtte
 
